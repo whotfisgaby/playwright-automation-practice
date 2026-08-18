@@ -31,8 +31,7 @@ cd playwright-automation-practice
 npm install
 
 ---
-
-👤 Author
+## 👤 Author
 Developed by Gabriel Villanueva  
 Practice project for QA automation with Playwright.
 
