@@ -15,3 +15,17 @@ It is designed as a practice project to demonstrate end-to-end testing skills, t
 ---
 
 ## 📂 Project Structure
+├── tests/                # Playwright test files
+├── playwright.config.ts  # Playwright configuration
+├── package.json          # Dependencies and scripts
+├── .gitignore            # Ignored files/folders
+├── README.md             # Project documentation
+└── reports/              # Test reports (ignored in Git)
+---
+
+## ⚙️ Setup & Installation
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/whotfisgaby/playwright-automation-practice.git
+cd playwright-automation-practice
+npm install
