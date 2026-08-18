@@ -29,8 +29,10 @@ Clone the repository and install dependencies:
 git clone https://github.com/whotfisgaby/playwright-automation-practice.git
 cd playwright-automation-practice
 npm install
+
 ---
-🧪 Running Tests
+
+**## 🧪 Running Tests**
 Run all tests:
 
 bash
@@ -43,6 +45,8 @@ Generate an HTML report:
 
 bash
 npx playwright show-report
+
+---
 
 📊 CI/CD Integration
 This project includes a GitHub Actions workflow (.github/workflows/playwright.yml)
