@@ -32,33 +32,12 @@ npm install
 
 ---
 
-
-**## 🧪 Running Tests**
-Run all tests:
-
-bash
-npx playwright test
-Run tests with UI mode:
-
-bash
-npx playwright test --ui
-Generate an HTML report:
-
-bash
-npx playwright show-report
-
----
-
-📊 CI/CD Integration
-This project includes a GitHub Actions workflow (.github/workflows/playwright.yml)
-that runs tests automatically on every push or pull request.
-
-✨ Future Improvements
-Add more test scenarios (login, checkout, API validation)
-Integrate with reporting tools (Allure, Playwright HTML reports)
-Expand CI/CD pipeline with parallel test execution
 👤 Author
 Developed by Gabriel Villanueva  
 Practice project for QA automation with Playwright.
+
+
+
+
 
 
