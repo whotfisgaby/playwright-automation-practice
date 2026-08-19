@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Git Pull & Push",
+      "type": "shell",
+      "command": "git pull origin main; git add .; git commit -m 'Quick update'; git push origin main",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}
